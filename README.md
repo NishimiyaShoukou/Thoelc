@@ -1,4 +1,4 @@
-<h3 align="center">I'm glad for your visit. I'm a future engineer who is working hard on my studies.</h3>
+<h3 align="center">I'm glad for your visit. I'm a future engineer who is working hard on my studies</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thoelc&label=Profile%20views&color=0e75b6&style=flat" alt="thoelc" /> </p>
 
